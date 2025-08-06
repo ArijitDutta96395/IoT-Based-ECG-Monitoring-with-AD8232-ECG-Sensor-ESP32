@@ -49,7 +49,11 @@ The **AD8232 ECG sensor** captures heart signals, while the **ESP32 microcontrol
 ---
 
 ## 🔧 Circuit Diagram
-
+<p align="center">
+  <a href="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32/blob/main/Circuit%20Diagram.jpg">
+    <img src="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32/raw/main/Circuit%20Diagram.jpg" alt="Circuit Diagram" width="400px" style="border:1px solid #ddd; border-radius:8px;" />
+  </a>
+</p>
 ---
 
 ## 💻 Installation & Setup
