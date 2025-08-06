@@ -58,3 +58,42 @@ The **AD8232 ECG sensor** captures heart signals, while the **ESP32 microcontrol
    ```bash
    git clone https://github.com/<your-username>/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32.git
    cd IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32
+3. **Open the Arduino sketch (.ino file).**
+4. **Update Wi-Fi credentials in the code:**
+```bash
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
+```
+
+5. **Upload the code to the ESP32 board.**
+6. **Open Serial Monitor to verify ECG data or connect to IoT dashboard.**
+---
+
+📊 Output
+- Serial Plotter / Serial Monitor: View ECG waveform directly from Arduino IDE.
+- IoT Dashboard: Send data to ThingSpeak, Blynk, or any web server for remote monitoring.
+- Mobile App (optional): Visualize ECG in real-time using IoT apps.
+  
+---
+
+🔮 Future Enhancements
+- Add heartbeat detection algorithm (R-Peak detection)
+- Implement cloud storage and analytics for historical ECG data
+- Add alert system (SMS/Email) for abnormal readings
+- Integrate with wearable devices for continuous monitoring
+  
+---
+
+📜 License
+This project is open-source and available under the MIT License.
+
+Author: Your Name
+- Email: arijitdutta96395@gnail.com
+- GitHub: (https://github.com/ArijitDutta96395/)
+
+
+
+
+
+
+
