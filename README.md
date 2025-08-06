@@ -5,6 +5,12 @@ By leveraging the Internet of Things (IoT), this project provides a **real-time 
 The **AD8232 ECG sensor** captures heart signals, while the **ESP32 microcontroller** enables wireless data transmission to a cloud platform or local server for remote monitoring.
 
 ---
+##  📸 Project Image
+<p align="center">
+  <a href="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32/blob/main/Circuit%20Diagram.jpg">
+    <img src="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32/blob/main/ecgbreadboard.jpg" alt="Circuit Diagram" width="400px" style="border:1px solid #ddd; border-radius:8px;" />
+  </a>
+</p>
 
 ## 🚀 Features
 - **Real-time ECG data acquisition** using AD8232 sensor  
@@ -54,6 +60,7 @@ The **AD8232 ECG sensor** captures heart signals, while the **ESP32 microcontrol
     <img src="https://github.com/ArijitDutta96395/IoT-Based-ECG-Monitoring-with-AD8232-ECG-Sensor-ESP32/raw/main/Circuit%20Diagram.jpg" alt="Circuit Diagram" width="400px" style="border:1px solid #ddd; border-radius:8px;" />
   </a>
 </p>
+
 ---
 
 ## 💻 Installation & Setup
